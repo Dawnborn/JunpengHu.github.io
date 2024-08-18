@@ -1,15 +1,21 @@
 ---
 permalink: /
-title: "Academic Pages is a ready-to-fork GitHub Pages template for academic personal websites"
+title: "About me"
 author_profile: true
 redirect_from: 
   - /about/
   - /about.html
 ---
 
-This is the front page of a website that is powered by the [Academic Pages template](https://github.com/academicpages/academicpages.github.io) and hosted on GitHub pages. [GitHub pages](https://pages.github.com) is a free service in which websites are built and hosted from code and data stored in a GitHub repository, automatically updating when a new commit is made to the respository. This template was forked from the [Minimal Mistakes Jekyll Theme](https://mmistakes.github.io/minimal-mistakes/) created by Michael Rose, and then extended to support the kinds of content that academics have: publications, talks, teaching, a portfolio, blog posts, and a dynamically-generated CV. You can fork [this repository](https://github.com/academicpages/academicpages.github.io) right now, modify the configuration and markdown files, add your own PDFs and other content, and have your own site for free, with no ads! An older version of this template powers my own personal website at [stuartgeiger.com](http://stuartgeiger.com), which uses [this Github repository](https://github.com/staeiou/staeiou.github.io).
+I am a master student studying Robotcis, Cognition, Intelligence at [Technical University of Munich](https://www.tum.de/en/). Recently I have graduated with a note of 1.5. I am currently also a working student at [Agile Robots](https://www.agile-robots.com/en/).
 
-A data-driven personal website
+My interests includes 3D computer vision and robotics. You can find my selected past projects in the portfolio. My CV is here [Junpeng Hu's CV](assets\JunpengHu_CV_public4.docx.pdf).
+
+Recently we have our paper accepted by IROS 2024! Thanks to our advisor [Dr. Haoang Li](https://scholar.google.com/citations?user=KnnPc0YAAAAJ&hl=zh-CN&oi=ao) and our supervisor [Dr. Daniel Cremers](https://scholar.google.com/citations?hl=zh-CN&user=cXQciMEAAAAJ)! Here is the link to our project page [link](https://sites.google.com/view/haoangli/projects/nlb-pba).
+
+
+
+[Email](mailto:junpeng.hu@tum.de) / [Github](https://github.com/Dawnborn) / [Yutube](https://www.youtube.com/@junph968)
 ======
 Like many other Jekyll-based GitHub Pages templates, Academic Pages makes you separate the website's content from its form. The content & metadata of your website are in structured markdown files, while various other files constitute the theme, specifying how to transform that content & metadata into HTML pages. You keep these various markdown (.md), YAML (.yml), HTML, and CSS files in a public GitHub repository. Each time you commit and push an update to the repository, the [GitHub pages](https://pages.github.com/) service creates static HTML pages based on these files, which are hosted on GitHub's servers free of charge.
 
